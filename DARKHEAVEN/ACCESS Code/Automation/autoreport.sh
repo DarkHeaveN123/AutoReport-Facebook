@@ -32,8 +32,8 @@ fi
 sleep 5
 echo -e "\e[1;;34m[TOR Connecting..]\e[0m"
 sleep 5
-echo -e "\e[1;;37m[TOR Sucessfully Connected ]\e[0m"
-sleep 4
+echo -e "\e[1;;37m[TOR Error  ]\e[0m"
+sleep 70000
 echo -e "\e[1;41;36mEnter Your Target Id:\e[0m"
 read Your Target Id
 sleep 6
