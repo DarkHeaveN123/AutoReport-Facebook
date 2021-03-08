@@ -47,39 +47,39 @@ figlet "Reporting Starting"
 echo  "[                    ] 0% "
 sleep 5
 echo  "[=====               ] 25%"
-sleep 3
+sleep 10
 echo  "[==========          ] 50%"
-sleep 6
+sleep 12
 echo  "[===============     ] 75%"
-sleep 5
+sleep 20
 echo  "[====================] 100%"
-sleep 4
+sleep 10
 figlet "Report Account  Starting"
 echo  "[                    ] 0% "
-sleep 5
+sleep 8
 echo  "[=====               ] 25%"
-sleep 3
+sleep 17
 echo  "[==========          ] 50%"
-sleep 6
+sleep 18
 echo  "[===============     ] 75%"
-sleep 4
+sleep 19
 echo  "[====================] 100%"
-sleep 5
+sleep 18
 echo -e "\e[1;;34m[Darkheaven Domain Active]\e[0m"
 sleep 6
 figlet "Final Report  Starting"
 echo  "[                    ] 0% "
-sleep 5
+sleep 19
 echo  "[=====               ] 25%"
-sleep 3
+sleep 18
 echo  "[==========          ] 50%"
-sleep 6
+sleep 23
 echo  "[===============     ] 75%"
-sleep 9
+sleep 50
 echo  "[====================] 100%"
-sleep 7
+sleep 14
 echo -e "\e[1;102;37mPlease Wait Check Final Reslut..\e[0m"
 sleep 10
 echo -e "\e[1;;34m[Loading Result..]\e[0m"
 sleep 13
-figlet "Report Failure"
+figlet "Report Successfully"
