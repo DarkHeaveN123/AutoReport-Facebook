@@ -1,10 +1,15 @@
 #!/bin/bash
 clear
 figlet "Auto Report"
+sleep 2
 echo  "Author   : [DARKHEAVEN]"
+sleep 2
 echo  "TEAM     : [DARKHOLE]"
+sleep 3
 echo  "INSTAGRAM: [dark_h_e_a_v_e_n]"
+sleep 4
 echo  "GITHUB   : [DarkHeaveN123]"
+sleep 3
 echo -e "\e[1;41;36mFacebook Auto Report Tool\e[0m"
 sleep 5
 echo -e "\e[1;;37m[Loading Datas..]\e[0m"
@@ -32,8 +37,8 @@ fi
 sleep 5
 echo -e "\e[1;;34m[TOR Connecting..]\e[0m"
 sleep 5
-echo -e "\e[1;;37m[TOR Error  ]\e[0m"
-sleep 70000
+echo -e "\e[1;;37m[TOR Connect]\e[0m"
+sleep 5
 echo -e "\e[1;41;36mEnter Your Target Id:\e[0m"
 read Your Target Id
 sleep 6
